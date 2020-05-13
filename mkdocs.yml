@@ -40,13 +40,10 @@ markdown_extensions:
 nav:
   - Welcome: index.md
   - Deployment Manual:
-      - Deploy MongoDB: Deploy-MongoDb.md
-      - Deploy Express: Deploy-Express.md
-      - Create Data: Create-Data.md
+      - Deploy API: Deploy-Notification.md
   - API Documentation:
       - Overview: Welcome-API.md
       - Notification Push API: NotificationPush-API.md
-  - Reports and Downloads: Reports-And-Downloads.md
 
 extra_css:
   - "stylesheets/style.css"
